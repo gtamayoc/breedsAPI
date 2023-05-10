@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">breeds</string>
+    <string name="pa_s_de_origen">País de Origen</string>
+    <string name="nombre_raza">Nombre Raza</string>
+    <string name="inteligencia">Inteligencia</string>
+    <string name="catBreeds">Catbreeds</string>
+</resources>
